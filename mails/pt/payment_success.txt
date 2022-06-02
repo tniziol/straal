@@ -1,0 +1,13 @@
+{shop_url}
+
+{pagamento} - EASYPAY
+
+
+
+O seu pagamento para sua encomenda ref {referencia} foi procesado com sucesso!
+                                          
+<p>Para ver os detalhes da sua encomenda <a href="{order_details}">clique aqui</a>! </p>
+
+
+
+Module EASYPAY por Trigénius.

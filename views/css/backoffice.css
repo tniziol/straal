@@ -1,0 +1,15 @@
+.bootstrap .fixed-width-lg{
+    width: initial!important;
+}
+
+.bootstrap .panel-group{
+    margin-bottom: 0px!important;
+}
+
+#STRAAL_GENERIC_LINK{
+    cursor: default;
+}
+
+#STRAAL_PASSWORD_NOTIF{
+    color: transparent;
+}

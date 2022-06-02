@@ -1,0 +1,45 @@
+.ep-d-none{
+	display:none;
+}
+.mbotom{
+	margin-bottom: 20px;
+}
+
+.dnonee{
+	display: none;
+}
+
+.rensr-btn{
+	background-color: rgba(200,200,200,.8);
+	margin-bottom: 30px;
+	cursor: pointer;
+}
+
+.rensr-btn:hover{
+	background-color: rgba(220,220,220,.8);
+}
+
+.mbway-mpagamento{
+	margin-top: 20px;
+}
+
+.straal-btn{
+	border-radius: 100px;
+	text-transform: none;
+	padding: 8px 25px;
+	background-color: #4ecb89;
+	font-weight: 500;
+	margin-bottom: 10px;
+}
+
+.straal-text{
+	color: black;
+}
+
+.straal-mid{
+	text-align: center;
+}
+
+#STRAAL_PASSWORD_NOTIF{
+	color: transparent;
+}
